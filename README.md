@@ -1,5 +1,8 @@
 ﻿# DadaRTP 1.0.2
 
+<p align="center"><img src="assets/dadasmp-logo.png" alt="DadaSMP" width="180"></p>
+
+
 > Random teleport multi-mondo per Paper 1.20.1.
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.20%2B-green?style=for-the-badge)
