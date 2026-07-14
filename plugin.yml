@@ -1,0 +1,17 @@
+name: DadaRTP
+version: '1.0.2'
+main: it.dadasmp.rtp.DadaRtpPlugin
+api-version: '1.20'
+author: DadaSMP
+description: Random teleport multi-mondo per Paper 1.20.1.
+commands:
+  rtp:
+    description: Apre la GUI RTP.
+    usage: /rtp
+permissions:
+  dadartp.use:
+    description: Permette di usare /rtp.
+    default: true
+  dadartp.admin:
+    description: Permette di usare /rtp set <mondo> e /rtp reload.
+    default: op
